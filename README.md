@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/ThembakaziNgamlana/stats-preview-card-component.git)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://thembakazingamlana.github.io/stats-preview-card-component/)
 
 ## My process
 
@@ -51,16 +51,25 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+i have learned how to make the website responsive and by using media query and i have learned hoow to use display block and display none.
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
-```
+
+<div class="attribution">
+  Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+  Coded by <a href="#">Thembakazi</a>.
+</div>
 ```css
 .proud-of-this-css {
-  color: papayawhip;
+.img_desktop {
+    display: none;
+  }
+
+  .images_mobile {
+    display: block;
+    max-width: 100%; 
+  }
 }
 ```
 
@@ -75,8 +84,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [w3school.com](https://www.w3schools.com/cssref/pr_border-style.php) - This helped me to make my webpage beutiful using css styling. I really liked this pattern and will use it going forward.
+- [youTube](https://www.youtube.com/watch?v=ZYV6dYtz4HA) - This is an amazing video which helped me to make my website responsive. I'd recommend it to anyone still learning this concept.
 
 
 
