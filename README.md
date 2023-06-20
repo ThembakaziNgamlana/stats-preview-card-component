@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ThembakaziNgamlana/stats-preview-card-component.git)
-- Live Site URL: [Add live site URL here](https://thembakazingamlana.github.io/stats-preview-card-component/)
+- Solution URL: [https://github.com/ThembakaziNgamlana/stats-preview-card-component.git]
+- Live Site URL: [https://thembakazingamlana.github.io/stats-preview-card-component/]
 
 ## My process
 
